@@ -184,6 +184,7 @@ RUN groupadd -g 991 -r asterisk && \
 		pip \
 		python3-pycurl \
 		python3-pyodbc \
+		python3-requests \
 		sox \
 		zip \
 		vim \
